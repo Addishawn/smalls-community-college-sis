@@ -1,0 +1,6 @@
+ClassroomID,BuildingName,RoomNumber,Capacity
+1,Tech,101,32
+2,Tech,205,28
+3,Admin,110,40
+4,Science,214,30
+5,Health,305,24

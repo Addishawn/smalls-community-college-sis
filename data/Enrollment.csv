@@ -1,0 +1,6 @@
+EnrollmentID,StudentID,SectionID,EnrollmentDate,Grade
+1,1,1,2026-08-20,A
+2,2,1,2026-08-20,B
+3,3,2,2026-08-21,A
+4,4,3,2026-08-19,B
+5,5,5,2026-08-22,IP

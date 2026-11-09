@@ -1,0 +1,6 @@
+SectionID,SectionNumber,MeetingDays,MeetingTime,CourseID,TermID,ClassroomID,InstructorID
+1,001,MW,09:00-10:15,1,4,1,1
+2,002,TR,11:00-12:15,2,4,2,2
+3,001,MW,13:00-14:15,3,4,3,3
+4,001,TR,08:00-09:15,4,4,4,4
+5,001,MW,10:30-12:20,5,4,5,5

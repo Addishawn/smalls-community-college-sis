@@ -1,0 +1,6 @@
+InstructorProgramID,InstructorID,ProgramID,Role
+1,1,1,Coordinator
+2,2,2,Faculty
+3,3,3,Advisor
+4,4,4,Faculty
+5,5,5,Coordinator

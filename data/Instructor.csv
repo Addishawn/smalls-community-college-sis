@@ -1,0 +1,6 @@
+InstructorID,FirstName,LastName,Email,Phone,DepartmentID
+1,Maria,Santos,msantos@college.edu,561-555-1101,1
+2,James,Cole,jcole@college.edu,561-555-1102,1
+3,Aisha,Rahman,arahman@college.edu,561-555-1103,2
+4,David,Nguyen,dnguyen@college.edu,561-555-1104,3
+5,Elena,Brooks,ebrooks@college.edu,561-555-1105,5

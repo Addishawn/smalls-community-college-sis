@@ -1,0 +1,6 @@
+PaymentID,StudentID,PaymentDate,Amount,PaymentMethod,PaymentStatus
+1,1,2026-08-15,1450.00,Card,Paid
+2,2,2026-08-16,1450.00,Aid,Paid
+3,3,2026-08-18,980.00,Card,Paid
+4,4,2026-08-17,1200.00,Cash,Pending
+5,5,2026-08-19,1600.00,Aid,Paid
